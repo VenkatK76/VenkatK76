@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **kvmsai76@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SjwQ6i0Bw3kp9IqnCz-Sp2PupgjOMfhz/view?usp=sharing](https://drive.google.com/file/d/1SjwQ6i0Bw3kp9IqnCz-Sp2PupgjOMfhz/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rDisRlbvNalEQme8gHPbmAp6ePNipVtT/view?usp=sharing](https://drive.google.com/file/d/1rDisRlbvNalEQme8gHPbmAp6ePNipVtT/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkat-27586421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkat-27586421b" height="30" width="40" /></a>

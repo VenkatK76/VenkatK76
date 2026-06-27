@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karanam Venkata Manikanta Sai</h1>
 <h3 align="center">Backend-focused Software Developer building REST APIs, SQL-driven workflows, and database optimization tools with Python, FastAPI, SQL, and JavaScript.</h3>
 
-- 🔭 I’m currently working on **backend engineering and system design projects focused on scalable APIs, database workflows, and real-world business applications**
+- 🔭 I’m currently working on **scalable backend APIs, database workflows, and system design projects**
 
 - 🌱 I’m currently learning **advanced SQL optimization, backend architecture, and testing**
 
@@ -16,6 +16,13 @@
 - 📫 How to reach me **kvmsai76@gmail.com**
 
 - ⚡ Fun fact **I turn caffeine into clean schemas ☕💾**
+
+## Featured Projects
+
+- **Music Analytics** — Backend analytics project using FastAPI, Express.js, and MySQL.
+- **SQL Query Optimizer** — Python CLI tool for SQL query analysis, indexing suggestions, and performance optimization.
+- **Greetings API** — FastAPI-based API for context-aware greetings, wishes, multilingual responses, and timezone-based messages.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

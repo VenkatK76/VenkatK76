@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karanam Venkata Manikanta Sai</h1>
-<h3 align="center">Backend-focused Software Developer building REST APIs, SQL-driven workflows, and database optimization tools with Python, FastAPI, SQL, and JavaScript.</h3>
+<h3 align="center">Backend-focused Software Developer building REST APIs, database-driven applications, and SQL optimization tools with Python, FastAPI, and SQL Server.</h3>
 
 - 🔭 I’m currently working on **scalable backend APIs, database workflows, and system design projects**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **FastAPI, SQL, backend engineering, analytics dashboards, and automation projects**
 
-- 🤝 I’m looking for help with **advanced system design, scalable backend architecture**
+- 🤝 I’m open to contributing to **backend systems, API platforms, and database-focused projects**
 
 - 👨‍💻 All of my projects are available at [github.com/VenkatK76](github.com/VenkatK76)
 

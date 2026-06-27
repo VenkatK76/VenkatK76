@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karanam Venkata Manikanta Sai</h1>
-<h3 align="center">Backend-focused Software Developer building REST APIs, database-driven applications, and SQL optimization tools with Python, FastAPI, and SQL Server.</h3>
+<h3 align="center">Backend Developer focused on APIs, SQL, and scalable database-driven systems.</h3>
 
 - 🔭 I’m currently working on **scalable backend APIs, database workflows, and system design projects**
 
